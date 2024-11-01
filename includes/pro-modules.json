@@ -1,0 +1,156 @@
+[
+    {
+        "id": "ultimakit_module_admin_ui",
+        "name": "Admin UI",
+        "description": "Easily customize the WordPress admin interface.",
+        "category": "Utilities",
+        "plan": "pro",
+        "type": "WordPress",
+        "link": "admin-ui-in-wordpress",
+        "is_active": false,
+        "settings": "no"
+    },
+    {
+        "id": "ultimakit_module_debug_mode",
+        "name": "Debug Mode",
+        "description": "Activate the Debug mode. (*This module is critical. Please review the help article before activating it.)",
+        "category": "Maintenance",
+        "plan": "pro",
+        "type": "WordPress",
+        "link": "enable-debug-mode-in-wordpress",
+        "is_active": false,
+        "settings": "no"
+    },
+    {
+        "id": "ultimakit_module_disable_auto_updates",
+        "name": "Disable Auto Updates",
+        "description": "Disable auto updates for Core WordPress, Themes and Plugins",
+        "category": "Disable",
+        "plan": "pro",
+        "type": "WordPress",
+        "link": "disable-auto-updates-in-wordpress",
+        "is_active": false,
+        "settings": "no"
+    },
+    {
+        "id": "ultimakit_module_disable_blog",
+        "name": "Disable Blog",
+        "description": "If you're not using the blog feature, turn it off completely in WordPress.",
+        "category": "Disable",
+        "plan": "pro",
+        "type": "WordPress",
+        "link": "disable-blog-in-wordpress",
+        "is_active": false,
+        "settings": "no"
+    },
+    {
+        "id": "ultimakit_module_disable_comments",
+        "name": "Disable Comments",
+        "description": "Disable the entire comment feature from WordPress if not utilised.",
+        "category": "Disable",
+        "plan": "pro",
+        "type": "WordPress",
+        "link": "disable-comments-in-wordpress",
+        "is_active": false,
+        "settings": "no"
+    },
+    {
+        "id": "ultimakit_module_export_post_pages",
+        "name": "Export Posts & Pages",
+        "description": "You can download your posts and pages in .csv format.",
+        "category": "Export",
+        "plan": "pro",
+        "type": "WordPress",
+        "link": "export-posts-pages-with-custom-fields-in-wordpress",
+        "is_active": false,
+        "settings": "no"
+    },
+    {
+        "id": "ultimakit_module_export_users",
+        "name": "Export Users",
+        "description": "You can download your user data and pages in .csv format.",
+        "category": "Export",
+        "plan": "pro",
+        "type": "WordPress",
+        "link": "export-users-with-custom-usermeta-custom-field-in-wordpress",
+        "is_active": false,
+        "settings": "no"
+    },
+    {
+        "id": "ultimakit_module_hide_admin_notices_advanced",
+        "name": "Hide Admin Notices - Advanced",
+        "description": "Stop annoying admin notices.",
+        "category": "Admin",
+        "plan": "pro",
+        "type": "WordPress",
+        "link": "hide-admin-notices-in-wordpress",
+        "is_active": false,
+        "settings": "yes"
+    },
+    {
+        "id": "ultimakit_module_limit_login_attempts",
+        "name": "Login Attempts",
+        "description": "Add secured layer of security to your website by limiting login attempts.",
+        "category": "Security",
+        "plan": "pro",
+        "type": "WordPress",
+        "link": "limit-login-attempts-in-wordpress",
+        "is_active": false,
+        "settings": "yes"
+    },
+    {
+        "id": "ultimakit_module_maintenance_mode",
+        "name": "Maintenance Mode",
+        "description": "Clear your site cache after enabling or disabling maintenance mode.",
+        "category": "Security",
+        "plan": "pro",
+        "type": "WordPress",
+        "link": "maintenance-mode-in-wordpress",
+        "is_active": false,
+        "settings": "yes"
+    },
+    {
+        "id": "ultimakit_module_media_trash",
+        "name": "Media Trash",
+        "description": "Activate the Trash feature for deleting media files.",
+        "category": "Media",
+        "plan": "pro",
+        "type": "WordPress",
+        "link": "enable-media-trash-in-wordpress",
+        "is_active": false,
+        "settings": "no"
+    },
+    {
+        "id": "ultimakit_module_obfuscate_author_slugs",
+        "name": "Obfuscate Author Slugs",
+        "description": "This feature hides the actual usernames of authors, improving security by making it more difficult for attackers to guess login details.",
+        "category": "Users",
+        "plan": "pro",
+        "type": "WordPress",
+        "link": "obfuscate-author-slugs-in-wordpress",
+        "is_active": false,
+        "settings": "no"
+    },
+    {
+        "id": "ultimakit_module_post_type_switcher",
+        "name": "Post Type Switcher",
+        "description": "Switch post type between available post types quickly and easily.",
+        "category": "Post\/Pages",
+        "plan": "pro",
+        "type": "WordPress",
+        "link": "post-type-switcher-in-wordpress",
+        "is_active": false,
+        "settings": "no"
+    },
+    {
+        "id": "ultimakit_module_smtp_email",
+        "name": "SMTP Email",
+        "description": "The SMTP email module improves the delivery of email.",
+        "category": "Utilities",
+        "plan": "pro",
+        "type": "WordPress",
+        "link": "setup-smtp-in-wordpress",
+        "is_active": false,
+        "settings": "yes"
+    }
+]
